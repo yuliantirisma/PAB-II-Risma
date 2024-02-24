@@ -1,0 +1,24 @@
+[
+    {
+        "nama" : "Risma yulianti",
+        "umur" : 20,
+        "alamat" : {
+            "jalan" : "Sumber harapan",
+            "kota" : "Belitang",
+            "provinsi" : "Sumtra Selatan"
+        },
+        "hobi" : ["Memasak","Main"]
+    },
+    {
+          "nama" : "Idra Setiawan",
+        "umur" : 21,
+        "alamat" : {
+            "jalan" : "Kelirejo",
+            "kota" : "Belitang",
+            "provinsi" : "Sumtra Selatan"
+        },
+        "hobi" : ["Mancing","Sepak bola"]
+
+    },
+    {}
+]
